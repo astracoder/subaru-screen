@@ -13,5 +13,5 @@
   I ended up seeing a foreigner doing a project with HTML and CSS and decided to redo it using React and Tailwindcss, it's extremely easy, but what counts is the intention.
 </p>
 
-<img src="/wallpaper.png">
+<img src="/Wallpaper.png">
 
